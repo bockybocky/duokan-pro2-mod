@@ -102,3 +102,7 @@ bash tools/ui.sh tap "設定"   # 點畫面上寫著「設定」的地方
 
 - 分區備份：每台機器專屬，不能共用。
 - Google 套件與 Magisk 的安裝檔：請到各自的官方網站下載。
+
+## 下載安裝檔
+
+17 個兒童版漫畫來源的安裝檔放在發行版：https://github.com/bockybocky/mihon-kids/releases/tag/v1.0-kids
